@@ -10,15 +10,6 @@ function App() {
   return (
     <div className="App">
 
-      {/* <h1>News App</h1> */}
-
-      {/* <Newsboard/> */}
-
-
-      {/* <Nav/> */}
-      {/* <NewsItem/> */}
-
-
       <Navbar/>
 
       <Header/>
@@ -30,7 +21,6 @@ function App() {
       <Three/>
 
       <Footer/>
-
 
     </div>
   );

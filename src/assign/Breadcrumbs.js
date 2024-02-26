@@ -7,7 +7,6 @@ export const Breadcrumbs = () => {
 
     useEffect(()=>{
 
-
       const breadcrumbdata = [
         {label:"home", path:"/"},
         {label:"Hosting", path:"/Hosting"},
