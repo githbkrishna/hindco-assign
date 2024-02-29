@@ -46,7 +46,7 @@ function Mid() {
                     }
                   </div>
                   <div>
-                    <a href="">show more ∨</a>
+                    <a href="/">show more ∨</a>
                     {
                       // display only for last data
                       index === array.length -1 && <div className='centerlast'>

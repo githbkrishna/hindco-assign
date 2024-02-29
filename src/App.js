@@ -12,11 +12,16 @@ function App() {
 
       <Navbar/>
 
+      <div>
+
+
       <Header/>
 
       <Breadcrumbs/>
 
       <Mid/>
+
+      </div>
 
       <Three/>
 
